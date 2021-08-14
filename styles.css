@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+}
+
+.top-cloud{
+    height: 100px;
+    width:150px;
+    position:relative;
+    left:950px;
+}
+
+
+.bottom-cloud{
+    height: 100px;
+    width: 150px;
+    position:relative;
+    left:400px;
+}
+
+.mountain{
+        position: absolute;
+        left: 400px;
+        top: 300px;
+
+
+}
